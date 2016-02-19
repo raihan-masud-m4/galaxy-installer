@@ -2,7 +2,7 @@
  
  Steps to run :
  
- 1. Download  nsis.
+1. Download  nsis.
 -Download link  : https://sourceforge.net/projects/nsis/files/latest/download
 -or visit here:
 -https://sourceforge.net/projects/nsis/
